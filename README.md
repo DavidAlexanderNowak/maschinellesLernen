@@ -2,9 +2,9 @@
 
 - [X] Aufgabe 1 am Dienstag 4. Oktober 2022
 
-- [ ] Aufgabe 2 am Montag 7. November 2022
+- [X] Aufgabe 2 am Dienstag 8. November 2022
 
-- [ ] Aufgabe 3 am Montag 7. November 2022
+- [ ] Aufgabe 3 am Dienstag 8. November 2022
 
 - [ ] Aufgabe 4 am Freitag 11. November 2022
 
